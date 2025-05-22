@@ -1,1 +1,1 @@
-print("ET0735-Devops DCPE")
+print("ET0735-Devops DCPE for AIOT")
